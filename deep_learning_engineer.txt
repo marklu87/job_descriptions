@@ -1,0 +1,44 @@
+Deep Learning Engineer
+We’re looking for a software engineer who loves Deep Learning. We are building an AI platform with the assumption that we have the algorithms and compute necessary to solve common tasks in computer vision, natural language processing, and automated speech recognition. If you are excited about prototyping projects with the latest open-source and closed-source Deep Learning pipelines, this role is for you.
+
+We run in the highest compute environments available in the market: currently, we run in a cluster of DGXs from NVIDIA. We run hundreds of concurrent DL trainings and thousands of concurrent DL inferences to enable rapid deployment of new use-cases. We work across dataset sizes, network complexity, and ground-truth challenges.
+
+Our team is a mix of skill sets: folks with Systems background, folks with Deep Learning background, and folks who know a little of everything enterprise. We value being a top-notch organization with a strong engineering-driven culture, and have the same high standards with our code, systems, and people. We value learning and growth (and not being bored) and hire diverse, well-rounded, communicative people we can envision being friends with and trusting.
+
+More About the Job
+Shorten the turn-around time between an academic paper and prototype code, with an eye towards automation.
+
+Provide robust tools for training the model zoo.
+
+Identify and use external services whenever they make sense; we want to hack existing tools for our purposes rather than build everything in-house!
+
+You Have
+Tried to run, either successfully or unsuccessfully, all models under the sun.
+Have built tools of automation for some classes of problem.
+Used PyTorch but are also familiar with TensorFlow.
+Onnx-ed and TensorRT-ed enough and enjoy the process.
+Background and experience at the intersection of software engineering and DL, for example a CS degree (or comparable) focused in ML/DL, or equivalent development experience.
+Bonus Points
+You have modified at least one DL library (e.g. Horovord).
+You have worked on enterprise DL projects.
+You have published in the last few years.
+You Are
+Emotionally mature & humble. You care about being effective over being right. Ideally you’ve made major changes & decisions in your life and learned from the results.
+
+Communicative & empathetic. You are happy when helping others succeed. An open-minded learner. You live to learn new things, like staying up to date on new technologies, tools, and techniques. You are inspired by what's possible as well as what people inside and outside your organization know, and eager to incorporate the best into your work.
+
+Someone with extremely high standards. You’re practical and know perfect is the enemy of good, but you aspire for us to be great.
+
+An owner. You feel personally accountable and responsible and know seeing the problem is less than half of it. You look for problems and inefficiencies and find elegant solutions to them before they become major issues.
+
+Fast-paced. You love the speed of and impact you have in startups. Conversely you never, ever want to be a tiny cog in a gigantic machine.
+
+An advocate for the end user. You think about how our customers will interact with the service and champion positive changes.
+
+A systems thinker. You think about how your designs will affect other aspects of the service and how it will evolve in the future.
+
+Apply
+If this all sounds exciting, please shoot us an email at [eacharya]@[projectlucy].[dev] - without of course the brackets. We are a rapidly growing team - so if this is not exactly what you are looking for, drop us a line anyway.
+
+Key Words
+Computer Vision, NLP, ASR, Latent Embeddings, Numpy, PyTorch, Python, Docker

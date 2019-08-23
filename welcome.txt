@@ -1,0 +1,9 @@
+Welcome
+Come join us, a team of experts in systems engineering, deep learning, and enterprise solutions. Be a part of building the next generation AI Platform!
+
+At Project Lucy, we are making the promise of AI, a reality. Our Platform accelerates enterprise adoption of AI by reducing the average execution time of AI projects from many months to mere days. We leverage the highest throughput compute available in the market and work off of the latest deep learning research in academia. We are a team of passionate engineers who have experienced different facets of building large-scale AI systems in places such as NVIDIA, Microsoft, etc. We are well funded and are in a high-growth trajectory.
+
+We value being a top-notch organization with a strong engineering-driven culture, and have the same high standards with our code, systems, and people. We value learning and growth (and not being bored) and hire diverse, well-rounded, communicative people we can envision being friends with and trusting. We are flexible on when and where you work from. Currently, our team is spreads across San Francisco, Seattle, Denver, Houston, and expanding...
+
+If you want to be a part of the team that will change how enterprise understand and adopt AI, check out the open positions below, and shoot us an email at [eacharya]@[projectlucy].[dev] - without of course the brackets. We are a rapidly growing team - so if an engineering role is not listed but you are interested in knowing what we are up to, please drop us a line!
+
