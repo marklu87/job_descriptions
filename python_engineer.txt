@@ -1,19 +1,19 @@
 Python Engineer
-We’re looking for a Python developer. We are building an AI platform to provide programming primitives at a higher abstraction level than what current Deep Learning systems provide. If you are excited by the challenge of building a platform that trains and runs hundreds of AI services in a multi-cluster environment, this role is for you.
-Our stack is built on Cloud Native components such as Kubernetes, Envoy, gRPC, and Jaeger. We take microservices to the heart and everything we do is scalable from day one. We run in the highest compute environments available in the market: currently, we run in a cluster of DGXs from NVIDIA. We are an AI-first company and we believe that “data writes software”. To that end, we instrument everything we can in our platform. We crunch this data so that it helps all engineers improve their software.
-Our team is a mix of skill sets: folks with Systems background, folks with Deep Learning background, and folks who know a little of everything enterprise. We value being a top-notch organization with a strong engineering-driven culture, and have the same high standards with our code, systems, and people. We value learning and growth (and not being bored) and hire diverse, well-rounded, communicative people we can envision being friends with and trusting.
+We are looking for a Python developer. We are building an AI platform to provide programming primitives at a higher abstraction level than what current Deep Learning systems provide. If you are excited by the challenge of building a platform that trains and runs hundreds of AI services in a multi-cluster environment, this role is for you.
+Our stack is built on Cloud Native components such as Kubernetes, Envoy, gRPC, and Jaeger. We take microservices to the heart, and everything we do is scalable from day one. We run in the highest compute environments available in the market. Currently, we run in a cluster of DGXs from NVIDIA. We are an AI-first company and we believe that “data writes software”. To that end, we instrument everything we can in our platform. We crunch this data so that it helps all engineers improve their software.
+Our team is a mix of skill sets: folks with a Systems background, folks with a Deep Learning background, and folks who know a little bit of everything enterprise. We value being a top-notch organization with a strong engineering-driven culture, and have the same high standards with our code, systems, and people. We value learning and growth (while not being bored) and hire diverse, well-rounded, communicative people that support our culture of trust and friendship.
 
 More About the Job
 Rapid prototyping of different algorithms using internal and external libraries.
 Organize code in containerized environments and/or sever-less functions.
-Identify and use external services whenever they make sense; we want to hack existing tools for our purposes rather than build everything in-house!
+Identify and use external services wherever they make sense; we want to hack existing tools for our purposes rather than build everything in-house!
 
 You Have
 Led a team to implement a feature that you are proud of.
 Experience with Python in production code.
 Awareness of the awesomeness that is Python3.
 Some DevOps experience to be sufficiently independent for prototyping.
-Background and experience in software development, for example a Computer Science degree (or comparable) and several years’ working experience in Python.
+A background and experience in software development, for example a Computer Science degree (or comparable) and several years’ working experience in Python.
 
 Bonus Points
 You have used introspection for a project.
@@ -21,16 +21,16 @@ You use design patterns extensively.
 You have worked on Machine Learning projects before.
 
 You Are
-Emotionally mature & humble. You care about being effective over being right. Ideally you’ve made major changes & decisions in your life and learned from the results.
-Communicative & empathetic. You are happy when helping others succeed. An open-minded learner. You live to learn new things, like staying up to date on new technologies, tools, and techniques. You are inspired by what's possible as well as what people inside and outside your organization know, and eager to incorporate the best into your work.
+Emotionally mature & humble. You care about being effective over being right. Ideally, you’ve made major changes & decisions in your life and have learned from the results.
+Communicative & empathetic. You are happy when helping others succeed. You are an open-minded learner and live to learn new things, like staying up to date on new technologies, tools, and techniques. You are inspired by what's possible, as well as what people inside and outside your organization know and are eager to incorporate the best into your work.
 Someone with extremely high standards. You’re practical and know perfect is the enemy of good, but you aspire for us to be great.
-An owner. You feel personally accountable and responsible and know seeing the problem is less than half of it. You look for problems and inefficiencies and find elegant solutions to them before they become major issues.
-Fast-paced. You love the speed of and impact you have in startups. Conversely you never, ever want to be a tiny cog in a gigantic machine.
-An advocate for the end user. You think about how our customers will interact with the service and champion positive changes.
+An owner. You feel personally accountable and responsible, and know seeing the problem is less than half of it. You look for problems and inefficiencies, and find elegant solutions to them before they become major issues.
+Fast-paced. You love the speed of startups and and the impact you can make. Conversely, you never, ever want to be a tiny cog in a gigantic machine.
+An advocate for the end user. You think about how our customers will interact with the service, and champion positive changes.
 A systems thinker. You think about how your designs will affect other aspects of the service and how it will evolve in the future.
 
 Apply
-If this all sounds exciting, please shoot us an email at [eacharya]@[projectlucy].[dev] - without of course the brackets. We are a rapidly growing team - so if this is not exactly what you are looking for, drop us a line anyway.
+If this all sounds exciting, please shoot us an email at [eacharya]@[projectlucy].[dev] - without of course the brackets. We are a rapidly growing team - so if this is not exactly what you are looking for, drop us a line anyway!
 
 Key Words
 Python, protobuf, micro-service
